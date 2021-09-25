@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1601513927 source:c:\users\kai\desktop\ads\estrutura de dados\projeto\projeto\projeto\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcionario.h"
+	<ctype.h>
+	<string.h>
+
+1601514326 c:\users\kai\desktop\ads\estrutura de dados\projeto\projeto\projeto\projeto\funcionario.h
+
+1601514414 source:c:\users\kai\desktop\ads\estrutura de dados\projeto\projeto\projeto\projeto\funcionario.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcionario.h"
+	<string.h>
+
+1601514414 source:c:\users\kai\desktop\projeto\funcionario.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcionario.h"
+	<string.h>
+
+1601514326 c:\users\kai\desktop\projeto\funcionario.h
+
+1601514959 source:c:\users\kai\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcionario.h"
+	<ctype.h>
+	<string.h>
+
+1601514414 source:c:\users\kaique nakao\desktop\github\funcionario.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcionario.h"
+	<string.h>
+
+1601514326 c:\users\kaique nakao\desktop\github\funcionario.h
+
+1601514959 source:c:\users\kaique nakao\desktop\github\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcionario.h"
+	<ctype.h>
+	<string.h>
+
