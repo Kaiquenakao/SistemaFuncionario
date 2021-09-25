@@ -8,5 +8,8 @@ A IDE utilizada para desenvolver esse projeto foi o **Code::Blocks**
  - [Kaique de Oliveira Nakao](https://github.com/Kaiquenakao)
 ## Requerimento
 Para rodar o sistema de funcionários precisar ter o compilador **GNU GCC** instalado
-## Ferramenta
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" />
+## Ferramentas
+<p float="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" heigth="60" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="60" heigth="60"/>
+ </p>
